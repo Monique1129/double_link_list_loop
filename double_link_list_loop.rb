@@ -1,6 +1,6 @@
-require "./double_link_list_loop.rb"
+require File.dirname(__FILE__) + "/double_link_list_loop.rb"
 
-class DoubleListLoop
+class DoubleListLinkLoop
 
   def initialize
     @list = []
